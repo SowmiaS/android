@@ -1,5 +1,5 @@
 
-package com.bnpp.poc.drawermenu.models;
+package com.ss.drawermenu.models;
 
 import com.google.gson.annotations.Expose;
 

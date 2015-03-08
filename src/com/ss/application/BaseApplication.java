@@ -1,4 +1,4 @@
-package com.bnpp.poc.application;
+package com.ss.application;
 
 import android.app.Application;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.bnpp.poc.basecontainer;
+package com.ss.basecontainer;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;

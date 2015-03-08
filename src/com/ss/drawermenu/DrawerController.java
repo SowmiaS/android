@@ -1,4 +1,4 @@
-package com.bnpp.poc.drawermenu;
+package com.ss.drawermenu;
 
 import java.io.IOException;
 
@@ -13,9 +13,9 @@ import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ExpandableListView.OnGroupClickListener;
 
-import com.bnpp.poc.basecontainer.MessagentScreenFragment;
-import com.bnpp.poc.drawermenu.models.Drawerchild;
 import com.example.bnpppoc.R;
+import com.ss.basecontainer.MessagentScreenFragment;
+import com.ss.drawermenu.models.Drawerchild;
 
 public class DrawerController implements OnGroupClickListener,
 		OnChildClickListener {

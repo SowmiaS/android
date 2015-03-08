@@ -1,4 +1,4 @@
-package com.bnpp.poc.basecontainer;
+package com.ss.basecontainer;
 
 import android.annotation.SuppressLint;
 import android.app.ActionBar;
@@ -11,8 +11,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ExpandableListView;
 
-import com.bnpp.poc.drawermenu.DrawerController;
 import com.example.bnpppoc.R;
+import com.ss.drawermenu.DrawerController;
 
 @SuppressLint("NewApi")
 public class BaseContainerActivity extends FragmentActivity {

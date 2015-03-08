@@ -1,5 +1,5 @@
 
-package com.bnpp.poc.drawermenu.models;
+package com.ss.drawermenu.models;
 
 import java.util.ArrayList;
 import java.util.List;

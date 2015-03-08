@@ -1,4 +1,4 @@
-package com.bnpp.poc.drawermenu;
+package com.ss.drawermenu;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -16,12 +16,12 @@ import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.TextView;
 
-import com.bnpp.poc.application.BaseApplication;
-import com.bnpp.poc.drawermenu.models.DrawerMenuModel;
-import com.bnpp.poc.drawermenu.models.Drawerheader;
 import com.example.bnpppoc.R;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.ss.application.BaseApplication;
+import com.ss.drawermenu.models.DrawerMenuModel;
+import com.ss.drawermenu.models.Drawerheader;
 
 public class DrawermenuAdapter extends BaseExpandableListAdapter {
 
