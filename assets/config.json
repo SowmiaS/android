@@ -1,0 +1,23 @@
+
+{
+  "drawerheader": [
+    {
+      "headertitle":"Social Media Integration",
+      "drawerchild":[
+        {
+          "childtitle":"HashTag Transfer",
+          "fragmentname" : "com.bnpp.poc.socialmediaintegration.HashTagTransfer"
+        },
+        {
+          "childtitle":"Facebook",
+          "url":"http://www.facebook.com"
+        },
+        {
+          "childtitle":"Google",
+          "url":"https://google.com"
+        }
+        
+      ]
+    }
+  ]
+}

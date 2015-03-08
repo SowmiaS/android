@@ -1,0 +1,28 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bnpppoc"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="18" />
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:theme="@style/AppTheme" android:name="com.bnpp.poc.application.BaseApplication">
+        
+       <activity 
+           android:name="com.bnpp.poc.basecontainer.BaseContainerActivity"
+           android:launchMode="singleInstance"
+           android:configChanges="orientation">
+           
+           <intent-filter>
+               <action android:name="android.intent.action.MAIN"/>
+               <category android:name="android.intent.category.LAUNCHER"/>
+           </intent-filter>
+       </activity>
+    </application>
+
+</manifest>

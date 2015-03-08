@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="font12">12dp</dimen>
+    <dimen name="font13">13dp</dimen>
+    <dimen name="font14">14dp</dimen>
+    <dimen name="font15">15dp</dimen>
+    <dimen name="font16">16dp</dimen>
+    <dimen name="font17">17dp</dimen>
+    <dimen name="font18">18dp</dimen>
+    <dimen name="font19">19dp</dimen>
+    <dimen name="font20">20dp</dimen>
+    <dimen name="font21">21dp</dimen>
+    <dimen name="font22">22dp</dimen>
+    <dimen name="font23">23dp</dimen>
+    <dimen name="font24">24dp</dimen>
+    <dimen name="font25">25dp</dimen>
+    <dimen name="font26">26dp</dimen>
+    <dimen name="font27">27dp</dimen>
+    <dimen name="font28">28dp</dimen>
+    <dimen name="font29">29dp</dimen>
+    <dimen name="font30">30dp</dimen>
+    <dimen name="font31">31dp</dimen>
+    <dimen name="font32">32dp</dimen>
+    <dimen name="font33">33dp</dimen>
+    <dimen name="font34">34dp</dimen>
+    <dimen name="font35">35dp</dimen>
+    <dimen name="font36">36dp</dimen>
+    <dimen name="font37">37dp</dimen>
+    <dimen name="font38">38dp</dimen>
+    <dimen name="font39">39dp</dimen>
+    
+    
+</resources>
